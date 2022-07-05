@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LoliKillers/apixyz.git"
+    "url": "git://github.com/LoliKillers/apixyz.git"
   },
   "keywords": [
     "api",
