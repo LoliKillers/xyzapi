@@ -56,6 +56,7 @@ xyz.GitHubStalk(apikey, username)
 | Fitur Name | Parameter | Require |
 | :------------: | :---------------: | :-----: |
 | Stalking GitHub | GitHubStalk | username&apikey|
+| Image Pinterest | Pinterest | search&apikey|
 
 
 # NOTE
