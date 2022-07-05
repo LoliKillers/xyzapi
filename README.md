@@ -1,33 +1,33 @@
 <div align="center">
 <img src="https://telegra.ph/file/ccfb50f2eccfa4941f871.jpg" alt="ARI" width="300" />
 
-![ariasuxyz](https://socialify.git.ci/LoliKillers/apixyz/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
+![ariasuxyz](https://socialify.git.ci/LoliKillers/xyzapi/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
 
 <p align="center">
 <a href="https://wa.me/6285785445412" alt="Whatsapp!"> <img src="https://aleen42.github.io/badges/src/whatsapp.svg" /> </a>
-<a href="https://github.com/LoliKillers/apixyz/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LoliKillers/apixyz" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LoliKillers/apixyz?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LoliKillers/apixyz" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LoliKillers/apixyz" /> </a>
-<a href="https://github.com/LoliKillers/apixyz/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LoliKillers/apixyz?style=flat&logo=github" /> </a>
-<a href="https://github.com/LoliKillers/apixyz/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LoliKillers/apixyz?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LoliKillers/apixyz" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LoliKillers/apixyz?color=success" /> </a>
-<a href="https://github.com/LoliKillers/apixyz" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LoliKillers/apixyz?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LoliKillers/xyzapi?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LoliKillers/xyzapi" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LoliKillers/xyzapi?style=flat&logo=github" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LoliKillers/xyzapi?label=Forks&logo=github" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LoliKillers/xyzapi?color=success" /> </a>
+<a href="https://github.com/LoliKillers/xyzapi" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LoliKillers/xyzapi?style=flat&logo=github&color=yellow" /> </a>
 </p>
 </div>
 
-# apixyz
+# xyzapi
 
 Small Pacakage npm :)
 
 # instalation
 ```shell
-npm install apixyz
+npm install xyzapi
 ```
 Or via yarn
 ```shell
-yarn add apixyz
+yarn add xyzapi
 ```
 
 # Usage
@@ -36,7 +36,7 @@ Example in JavaScript Lenguage!
 
 ```Stalking Github```
 ```javascript
-const xyz = require('apixyz')
+const xyz = require('xyzapi')
 
 const apikey = 'YOUR_API_KEY' //Please login/register at https://api.ariasu.xyz to get the apikey
 const username = 'LoliKillers' //Just an example, change the github username you want to stalk
@@ -69,4 +69,4 @@ To request features or report bugs or want to ask questions, please contact me a
 # JOIN GROUP
 * [WhatsApp](https://chat.whatsapp.com/KBi9lpu8IyC3I7kZ055pQm)
 
-[ariasu.xyz](https://api.ariasu.xyz)
+* Web API : [ariasu.xyz](https://api.ariasu.xyz)
