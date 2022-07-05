@@ -36,10 +36,10 @@ jobs:
       uses: actions/setup-node@v2.1.1
 
     - name: Install Dependencies
-      run: yarn
+      run: npm install
 
     - name: Build
-      run: yarn run build:tsc
+      run: npm start
       
     - name: Create Release
       id: releaseCreate
