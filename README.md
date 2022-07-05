@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/ccfb50f2eccfa4941f871.jpg" alt="ARI" width="300" />
 
 ![ariasuxyz](https://socialify.git.ci/LoliKillers/xyzapi/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
-
+[![Publish](https://github.com/LoliKillers/xyzapi/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/LoliKillers/xyzapi/actions/workflows/npm-publish.yml)
 <p align="center">
 <a href="https://wa.me/6285785445412" alt="Whatsapp!"> <img src="https://aleen42.github.io/badges/src/whatsapp.svg" /> </a>
 <a href="https://github.com/LoliKillers/xyzapi/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
