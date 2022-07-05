@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/3b6aa5e41e8cb0ea51574.jpg" alt="ARI" width="300" />
+<img src="https://telegra.ph/file/ccfb50f2eccfa4941f871.jpg" alt="ARI" width="300" />
 
 ![ariasuxyz](https://socialify.git.ci/LoliKillers/apixyz/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark) <br>
 
