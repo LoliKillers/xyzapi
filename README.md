@@ -41,7 +41,7 @@ xyz.GitHubStalk(apikey, username)
 
 # NOTE
 
-I will continue to update this package, so wait for my next update
+I will continue to update this package, so wait for my next update.
 To request features or report bugs or want to ask questions, please contact me at 
 * [WhatsApp](https://wa.me/6285785445412)
 * [Telegram](https://t.me/Loli_Killers)
@@ -49,3 +49,5 @@ To request features or report bugs or want to ask questions, please contact me a
 
 # JOIN GROUP
 * [WhatsApp](https://chat.whatsapp.com/KBi9lpu8IyC3I7kZ055pQm)
+
+[ariasu.xyz](https://api.ariasu.xyz)
