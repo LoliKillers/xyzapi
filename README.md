@@ -53,10 +53,12 @@ xyz.GitHubStalk(apikey, username)
 
 # LIST
 
-| Fitur Name | Parameter | Require |
+| Fitur Name | Formats | Params |
 | :------------: | :---------------: | :-----: |
-| Stalking GitHub | GitHubStalk | username&apikey|
-| Image Pinterest | Pinterest | search&apikey|
+| Stalking GitHub | GitHubStalk | username/apikey|
+| Image Pinterest | Pinterest | search/apikey|
+| Downloader YouTube | YouTube | url/ektensi/apikey|
+| Downloader TikTok | TikTok | url/apikey|
 
 
 # NOTE
