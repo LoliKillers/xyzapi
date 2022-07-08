@@ -32,16 +32,15 @@ yarn add xyzapi
 
 # Usage
 
-Example in JavaScript Lenguage!
+Example!
 
 ```Stalking Github```
 ```javascript
 const xyz = require('xyzapi')
 
-const apikey = 'YOUR_API_KEY' //Please login/register at https://api.ariasu.xyz to get the apikey
 const username = 'LoliKillers' //Just an example, change the github username you want to stalk
 
-xyz.GitHubStalk(apikey, username)
+xyz.GitHubStalk(username)
 .then(result => {
     console.log(result)
 })
@@ -55,17 +54,22 @@ xyz.GitHubStalk(apikey, username)
 
 | Fitur Name | Formats | Params |
 | :------------: | :---------------: | :-----: |
-| Stalking GitHub | GitHubStalk | username/apikey|
-| Image Pinterest | Pinterest | search/apikey|
-| Image Alphacoders | Alphacoders | search/apikey|
-| Image Wallpaper Flare | Wallpaperflare | search/apikey|
-| Downloader YouTube | YouTube | url/ektensi/apikey|
-| Downloader TikTok | TikTok | url/apikey|
+| Stalking GitHub | GithubStalk | username |
+| Image Pinterest | Pinterest | search |
+| Image Alphacoders | Alphacoders | search |
+| Image Wallpaper Flare | Wallpaperflare | search|
+| Downloader YouTube | TikTokDl | url |
+| Downloader TikTok | TikTokDl | url |
+| Guess the picture | TebakGambar | - |
+| Postal code | KodePos | country |
 
 
 # NOTE
 
+Please read the [LICENSE](https://github.com/LoliKillers/xyzapi/blob/master/LICENSE.md) before acting!
+
 I will continue to update this package, so wait for my next update.
+
 To request features or report bugs or want to ask questions, please contact me at 
 * [WhatsApp](https://wa.me/6285785445412)
 * [Telegram](https://t.me/Loli_Killers)
