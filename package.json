@@ -1,6 +1,6 @@
 {
   "name": "xyzapi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "npm package scraped from my own web api",
   "main": "index.js",
   "scripts": {

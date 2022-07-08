@@ -57,6 +57,8 @@ xyz.GitHubStalk(apikey, username)
 | :------------: | :---------------: | :-----: |
 | Stalking GitHub | GitHubStalk | username/apikey|
 | Image Pinterest | Pinterest | search/apikey|
+| Image Alphacoders | Alphacoders | search/apikey|
+| Image Wallpaper Flare | Wallpaperflare | search/apikey|
 | Downloader YouTube | YouTube | url/ektensi/apikey|
 | Downloader TikTok | TikTok | url/apikey|
 

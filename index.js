@@ -1,7 +1,9 @@
 const { GitHubStalk } = require('./lib/api-stalk')
-const { Pinterest } = require('./lib/api-image')
+const { Pinterest, Alphacoders, Wallpaperflare } = require('./lib/api-image')
 const { TikTok, YouTube } = require('./lib/api-download')
 module.exports.GitHubStalk = GitHubStalk
 module.exports.Pinterest = Pinterest
 module.exports.TikTok = TikTok
 module.exports.YouTube = YouTube
+module.exports.Alphacoders = Alphacoders
+module.exports.Wallpaperflare = Wallpaperflare
