@@ -1,6 +1,6 @@
 {
   "name": "xyzapi",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "npm package scraped from my own web api",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
     "ytdl-core": "^4.11.0"
   }
 }

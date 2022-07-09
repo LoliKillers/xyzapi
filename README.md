@@ -54,17 +54,17 @@ xyz.GitHubStalk(username)
 
 | Fitur Name | Formats | Params |
 | :------------: | :---------------: | :-----: |
-| Stalking GitHub | GithubStalk | username |
-| Search Repo GitHub | GithubRepo | username |
-| Image Pinterest | Pinterest | search |
-| Image Alphacoders | Alphacoders | search |
-| Image Wallpaper Flare | Wallpaperflare | search|
-| Downloader YouTube | TikTokDl | url |
-| Downloader TikTok | TikTokDl | url |
-| Guess the picture | TebakGambar | - |
-| Postal code | KodePos | country |
-| Earthquake Info | InfoGempa | - |
-| KBBI | KBBI | text |
+| [Stalking GitHub](https://github.com) | GithubStalk | username |
+| [Search Repo GitHub](https://github.com) | GithubRepo | username |
+| [Image Pinterest](https://id.pinterest.com/) | Pinterest | search |
+| [Image Alphacoders](https://alphacoders.com/) | Alphacoders | search |
+| [Image Wallpaper Flare](https://www.wallpaperflare.com/) | Wallpaperflare | search|
+| [Downloader YouTube](https://m.youtube.com/)| TikTokDl | url |
+| [Downloader TikTok](https://www.tiktok.com/) | TikTokDl | url |
+| [Guess the picture](https://jawabantebakgambar.net) | TebakGambar | - |
+| [Postal code](https://carikodepos.com/) | KodePos | country |
+| [Earthquake Info](https://www.bmkg.go.id/) | InfoGempa | - |
+| [KBBI](https://kbbi.kemdikbud.go.id/) | KBBI | text |
 
 
 # NOTE
