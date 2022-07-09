@@ -55,6 +55,7 @@ xyz.GitHubStalk(username)
 | Fitur Name | Formats | Params |
 | :------------: | :---------------: | :-----: |
 | Stalking GitHub | GithubStalk | username |
+| Search Repo GitHub | GithubRepo | username |
 | Image Pinterest | Pinterest | search |
 | Image Alphacoders | Alphacoders | search |
 | Image Wallpaper Flare | Wallpaperflare | search|
@@ -62,6 +63,8 @@ xyz.GitHubStalk(username)
 | Downloader TikTok | TikTokDl | url |
 | Guess the picture | TebakGambar | - |
 | Postal code | KodePos | country |
+| Earthquake Info | InfoGempa | - |
+| KBBI | KBBI | text |
 
 
 # NOTE
