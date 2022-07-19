@@ -81,4 +81,4 @@ To request features or report bugs or want to ask questions, please contact me a
 # JOIN GROUP
 * [WhatsApp](https://chat.whatsapp.com/KBi9lpu8IyC3I7kZ055pQm)
 
-* [ariasu.xyz](https://api.ariasu.xyz) (Web API)
+* [Web API](https://darkcoder.xyz)
