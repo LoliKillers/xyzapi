@@ -54,13 +54,22 @@ xyz.islami.listsurah(apikey)
 
 # LIST
 
+## Islami
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
 | [List Surah](https://salamquran.com) | islami | listsurah | apikey |
 | [Surah](https://salamquran.com) | islami | surah | apikey&number |
+
+## Imge
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
 | [Pinterest](https://id.pinterest.com) | image | pinterest | apikey&search |
 | [Alphacoders](https://wall.alphacoders.com) | image | alphacoders | apikey&search |
 | [Wallpaper Flare](https://www.wallpaperflare.com) | image | wallpaperflare | apikey&search |
+
+## Downloader
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
 | [Youtube Dl](https://www.youtube.com) | downloader | ytdl | apikey&url&extension |
 | [Youtube Play](https://www.youtube.com) | downloader | ytplay | apikey&search&extension |
 | [TikTok Dl](https://tiktok.com) | downloader | tiktok | apikey&url |
@@ -75,6 +84,28 @@ xyz.islami.listsurah(apikey)
 | [Cocofun](https://www.icocofun.com) | downloader | cocofun | apikey&url |
 | [Pinterest](https://id.pinterest.com) | downloader | pinterest | apikey&url |
 
+## Info
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| [Gempa Terkini](https://www.bmkg.go.id) | info | gempa | apikey |
+| [Kode Pos](https://carikodepos.com) | info | kodepos | apikey&city |
+| [Kompas News](https://www.kompas.com) | info | kompasNews | apikey |
+| [Hoax](https://turnbackhoax.id) | info | hoax | apikey |
+| [Server Minecraft](https://minecraftpocket-servers.com) | info | servermc | apikey |
+| [Jadawal Bola](https://m.bola.net) | info | jadwalBola | apikey |
+| [I News](https://www.inews.id) | info | inews | apikey |
+| [TikTok Trends](https://brainans.com) | info | tiktokTrend | apikey |
+| [Covid Gobal](https://www.worldometers.info) | info | covidGlobal | apikey |
+
+## Search
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| [Github Repo](https://github.com) | search | repo | apikey&search |
+| [Sticker](https://getstickerpack.com) | search | sticker | apikey&search |
+| [Lirik Lagu](https://www.musixmatch.com) | search | songsliric | apikey&title |
+| [Youtube](https://www.youtube.com) | search | youtube | apikey&search |
+| [Moddroid](https://moddroid.com) | search | moddroid | apikey&search |
+| [Happy Mod](https://www.happymod.com) | search | happymod | apikey&search |
 
 # NOTE
 

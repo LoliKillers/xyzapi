@@ -1,3 +1,6 @@
 module.exports.islami = require('./lib/islami.js')
 module.exports.stalker = require('./lib/stalker.js')
 module.exports.image = require('./lib/image.js')
+module.exports.downloder = require('./lib/downloader.js')
+module.exports.info = require('./lib/info.js')
+module.exports.search = require('./lib/search.js')
