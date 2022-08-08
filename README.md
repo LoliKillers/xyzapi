@@ -34,13 +34,15 @@ yarn add xyzapi
 
 Example!
 
-```Stalking Github```
+### Islami
+
+```List Surah```
 ```javascript
 const xyz = require('xyzapi')
 
-const username = 'LoliKillers' //Just an example, change the github username you want to stalk
+const apikey = 'APIKEY_KAMU' //apikey bisa kalian dapatkan gratis dengan cara register di https://api.darkcoder.xyz
 
-xyz.GitHubStalk(username)
+xyz.islami.listsurah(apikey)
 .then(result => {
     console.log(result)
 })
@@ -52,19 +54,26 @@ xyz.GitHubStalk(username)
 
 # LIST
 
-| Fitur Name | Formats | Params |
-| :------------: | :---------------: | :-----: |
-| [Stalking GitHub](https://github.com) | GithubStalk | username |
-| [Search Repo GitHub](https://github.com) | GithubRepo | username |
-| [Image Pinterest](https://id.pinterest.com/) | Pinterest | search |
-| [Image Alphacoders](https://alphacoders.com/) | Alphacoders | search |
-| [Image Wallpaper Flare](https://www.wallpaperflare.com/) | Wallpaperflare | search|
-| [Downloader YouTube](https://m.youtube.com/)| TikTokDl | url |
-| [Downloader TikTok](https://www.tiktok.com/) | TikTokDl | url |
-| [Guess the picture](https://jawabantebakgambar.net) | TebakGambar | - |
-| [Postal code](https://carikodepos.com/) | KodePos | country |
-| [Earthquake Info](https://www.bmkg.go.id/) | InfoGempa | - |
-| [KBBI](https://kbbi.kemdikbud.go.id/) | KBBI | text |
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| [List Surah](https://salamquran.com) | islami | listsurah | apikey |
+| [Surah](https://salamquran.com) | islami | surah | apikey&number |
+| [Pinterest](https://id.pinterest.com) | image | pinterest | apikey&search |
+| [Alphacoders](https://wall.alphacoders.com) | image | alphacoders | apikey&search |
+| [Wallpaper Flare](https://www.wallpaperflare.com) | image | wallpaperflare | apikey&search |
+| [Youtube Dl](https://www.youtube.com) | downloader | ytdl | apikey&url&extension |
+| [Youtube Play](https://www.youtube.com) | downloader | ytplay | apikey&search&extension |
+| [TikTok Dl](https://tiktok.com) | downloader | tiktok | apikey&url |
+| [Imgur](https://imgur.io) | downloader | imgur | apikey&url |
+| [Imdb](https://m.imdb.com) | downloader | imdb | apikey&url |
+| [Instagram](https://www.instagram.com) | downloader | instagram | apikey&url |
+| [Sound Cloud](https://m.soundcloud.com) | downloader | soundcloud | apikey&url |
+| [Facebook](https://m.facebook.com) | downloader | facebook | apikey&url |
+| [Twitter](https://twitter.com) | downloader | twitter | apikey&url |
+| [Line Sticker](https://store.line.me) | downloader | linesticker | apikey&url |
+| [Like](https://likee.video) | downloader | like | apikey&url |
+| [Cocofun](https://www.icocofun.com) | downloader | cocofun | apikey&url |
+| [Pinterest](https://id.pinterest.com) | downloader | pinterest | apikey&url |
 
 
 # NOTE
@@ -76,9 +85,10 @@ I will continue to update this package, so wait for my next update.
 To request features or report bugs or want to ask questions, please contact me at 
 * [WhatsApp](https://wa.me/6285785445412)
 * [Telegram](https://t.me/Loli_Killers)
-* [Instagram](https://instagram.com/ariasuxyz)
+* [Instagram](https://instagram.com/ariasux.yz)
 
 # JOIN GROUP
-* [WhatsApp](https://chat.whatsapp.com/KBi9lpu8IyC3I7kZ055pQm)
+
+* [WhatsApp](https://chat.whatsapp.com/EH9g1SKf588HXEFY51zQMu)
 
 * [Web API](https://darkcoder.xyz)
