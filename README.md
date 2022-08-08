@@ -57,55 +57,107 @@ xyz.islami.listsurah(apikey)
 ## Islami
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
-| [List Surah](https://salamquran.com) | islami | listsurah | apikey |
-| [Surah](https://salamquran.com) | islami | surah | apikey&number |
+| List Surah | islami | listsurah | apikey |
+| Surah | islami | surah | apikey&number |
 
 ## Imge
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
-| [Pinterest](https://id.pinterest.com) | image | pinterest | apikey&search |
-| [Alphacoders](https://wall.alphacoders.com) | image | alphacoders | apikey&search |
-| [Wallpaper Flare](https://www.wallpaperflare.com) | image | wallpaperflare | apikey&search |
+| Pinterest | image | pinterest | apikey&search |
+| Alphacoders | image | alphacoders | apikey&search |
+| Wallpaper Flare | image | wallpaperflare | apikey&search |
 
 ## Downloader
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
-| [Youtube Dl](https://www.youtube.com) | downloader | ytdl | apikey&url&extension |
-| [Youtube Play](https://www.youtube.com) | downloader | ytplay | apikey&search&extension |
-| [TikTok Dl](https://tiktok.com) | downloader | tiktok | apikey&url |
-| [Imgur](https://imgur.io) | downloader | imgur | apikey&url |
-| [Imdb](https://m.imdb.com) | downloader | imdb | apikey&url |
-| [Instagram](https://www.instagram.com) | downloader | instagram | apikey&url |
-| [Sound Cloud](https://m.soundcloud.com) | downloader | soundcloud | apikey&url |
-| [Facebook](https://m.facebook.com) | downloader | facebook | apikey&url |
-| [Twitter](https://twitter.com) | downloader | twitter | apikey&url |
-| [Line Sticker](https://store.line.me) | downloader | linesticker | apikey&url |
-| [Like](https://likee.video) | downloader | like | apikey&url |
-| [Cocofun](https://www.icocofun.com) | downloader | cocofun | apikey&url |
-| [Pinterest](https://id.pinterest.com) | downloader | pinterest | apikey&url |
+| Youtube Dl | downloader | ytdl | apikey&url&extension |
+| Youtube Play | downloader | ytplay | apikey&search&extension |
+| TikTok Dl | downloader | tiktok | apikey&url |
+| Imgur | downloader | imgur | apikey&url |
+| Imdb | downloader | imdb | apikey&url |
+| Instagram | downloader | instagram | apikey&url |
+| Sound Cloud | downloader | soundcloud | apikey&url |
+| Facebook | downloader | facebook | apikey&url |
+| Twitter | downloader | twitter | apikey&url |
+| Line Sticker | downloader | linesticker | apikey&url |
+| Like | downloader | like | apikey&url |
+| Cocofun | downloader | cocofun | apikey&url |
+| Pinterest | downloader | pinterest | apikey&url |
 
 ## Info
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
-| [Gempa Terkini](https://www.bmkg.go.id) | info | gempa | apikey |
-| [Kode Pos](https://carikodepos.com) | info | kodepos | apikey&city |
-| [Kompas News](https://www.kompas.com) | info | kompasNews | apikey |
-| [Hoax](https://turnbackhoax.id) | info | hoax | apikey |
-| [Server Minecraft](https://minecraftpocket-servers.com) | info | servermc | apikey |
-| [Jadawal Bola](https://m.bola.net) | info | jadwalBola | apikey |
-| [I News](https://www.inews.id) | info | inews | apikey |
-| [TikTok Trends](https://brainans.com) | info | tiktokTrend | apikey |
-| [Covid Gobal](https://www.worldometers.info) | info | covidGlobal | apikey |
+| Gempa Terkini | info | gempa | apikey |
+| Kode Pos | info | kodepos | apikey&city |
+| Kompas News | info | kompasNews | apikey |
+| Hoax | info | hoax | apikey |
+| Server Minecraft | info | servermc | apikey |
+| Jadawal Bola | info | jadwalBola | apikey |
+| I News | info | inews | apikey |
+| TikTok Trends | info | tiktokTrend | apikey |
+| Covid Gobal | info | covidGlobal | apikey |
 
 ## Search
 | Fitur Name | type | Formats | Params |
 | :------------: | :------------: | :---------------: | :-----: |
-| [Github Repo](https://github.com) | search | repo | apikey&search |
-| [Sticker](https://getstickerpack.com) | search | sticker | apikey&search |
-| [Lirik Lagu](https://www.musixmatch.com) | search | songsliric | apikey&title |
-| [Youtube](https://www.youtube.com) | search | youtube | apikey&search |
-| [Moddroid](https://moddroid.com) | search | moddroid | apikey&search |
-| [Happy Mod](https://www.happymod.com) | search | happymod | apikey&search |
+| Github Repo | search | repo | apikey&search |
+| Sticker | search | sticker | apikey&search |
+| Lirik Lagu | search | songsliric | apikey&title |
+| Youtube | search | youtube | apikey&search |
+| Moddroid | search | moddroid | apikey&search |
+| Happy Mod | search | happymod | apikey&search |
+
+## Education 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| KBBI | education | search | apikey&search |
+
+## Anime 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| Otakudesu | anime | otakudesu | apikey&anime |
+| Anoboy | anime | anoboy | apikey&anime |
+| MAL Top Airing | anime | malTopAiring | apikey |
+| MAL Top Anime | anime | malTopAnime | apikey |
+| MAL Search Anime | anime | malSearchAnime | apikey&anime |
+| MAL Search Manga | anime | malSearchManga | apikey&manga |
+| MAL Search Character | anime | malSearchCharacter | apikey&character |
+| Quotesnime | anime | quotesnime | apikey |
+| Manga Toons | anime | mangatoon | apikey&search |
+| Manga Toons | anime | mangatoon | apikey&search |
+| Anime Planet Search | anime | apAnime | apikey&anime |
+| Anime Planet Manga | anime | apManga | apikey&manga |
+| Otakudesu On Going | anime | otakuOngoing | apikey |
+| Anime Kiryuu | anime | kiryuu | apikey&anime |
+
+## Random 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| Neko | random | neko | apikey |
+| Kitsune | random | kitsune | apikey |
+| Waifu | random | waifu | apikey |
+| Baka | random | baka | apikey |
+| Bite | random | bite | apikey |
+| Blush | random | blush | apikey |
+
+## Convert 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| Emoji To Png | convert | emoji2png | apikey&emoticon |
+| Text To Speech | convert | gtts | apikey&lang&text |
+
+## Uploader 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| File Ungu | uploader | fileungu | apikey&file |
+
+## Crypto 
+| Fitur Name | type | Formats | Params |
+| :------------: | :------------: | :---------------: | :-----: |
+| Encode 32 | crypto | encode32 | apikey&text |
+| Encode 64 | crypto | encode64 | apikey&text |
+| Decode 32 | crypto | decode32 | apikey&text |
+| Decode 64 | crypto | decode64 | apikey&text |
 
 # NOTE
 
